@@ -1,1 +1,16 @@
 .DS_Store
+*.gen
+*.zip
+*.xml
+*.snap
+*.prefs
+*.dat
+*.resources
+*.index
+.gitignore
+.metadata/*.*
+hero/.project
+hero/.gitignore
+hero/.classpath
+hero/.settings/org.eclipse.jdt.core.prefs
+.metadata/.mylyn/.taskListIndex/segments_1
